@@ -14,5 +14,5 @@ This project implements face recognition using Python. It leverages powerful lib
     High accuracy using deep learning-based models
     Clone the repository
 
-git clone https://github.com/yourusername/face-recognition-python.git
+[git clone https://github.com/yourusername/face-recognition-python.git](https://github.com/tuhin-bera13/Face-Recognition.git)
 cd face-recognition-python
